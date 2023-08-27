@@ -20,7 +20,7 @@ Oldagram is a whimsical Instagram clone that pays homage to the days of dial-up 
 
 ## Getting Started
 
-1. Clone this repository to your local machine using `git clone https://github.com/yourusername/oldagram.git`
+1. Clone this repository to your local machine using `git clone https://github.com/DivvSaxena/Oldagram.git`
 2. Navigate to the project directory: `cd oldagram`
 3. Open the `index.html` file in your preferred browser to explore the Oldagram universe.
 
