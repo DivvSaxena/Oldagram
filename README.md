@@ -34,4 +34,4 @@ If Oldagram brought a smile to your face (or a nostalgic tear to your eye), cons
 
 ---
 
-Designed and developed with ❤️ by [Divv Saxena](saxenadivv@gmail.com)
+Developed with ❤️ by [Divv Saxena](saxenadivv@gmail.com)
