@@ -1,7 +1,7 @@
 # Oldagram: A Nostalgic Instagram Clone
 
 <p align="center">
-  <img src="images/Oldagram.png" alt="Oldagram Screenshot">
+  <img src="images/Oldagram.png" alt="Oldagram Screenshot" width="500px">
 </p>
 
 ## Welcome to Oldagram! 📸
