@@ -16,7 +16,7 @@ Oldagram is a whimsical Instagram clone that pays homage to the days of dial-up 
 
 - **Hover-tastic Effects**: Watch icons come to life with delightful hover effects. It's a throwback to the past with a modern twist!
 
-- **Spread the Love with Double Tap**: Just like your favorite social media app, Oldagram lets you increase likes by double-clicking. It's the virtual version of a high-five!
+- **Spread the Love with Double Tap**: Just like your favorite social media app, Oldagram lets you increase likes by double-clicking. It's the virtual version of a high-five! and design inspiration from scrimba
 
 ## Getting Started
 
@@ -34,4 +34,4 @@ If Oldagram brought a smile to your face (or a nostalgic tear to your eye), cons
 
 ---
 
-Designed and developed with ❤️ by [Your Name](https://yourwebsite.com)
+Designed and developed with ❤️ by [Divv Saxena](saxenadivv@gmail.com)
